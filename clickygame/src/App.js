@@ -9,73 +9,73 @@ const cards = [
   {
     "id": 1,
     "name": "Kirby",
-    "image": "https://www.ssbwiki.com/images/6/63/Kirby_KSA.png",
+    "image": "https://www.geek.com/wp-content/uploads/2018/10/kirby-smash-ultimate-625x352.png",
     "clicked": false
   },
   {
     "id": 2,
     "name": "Bowser",
-    "image": "./images/bowser.jpg",
+    "image": "https://www.ssbwiki.com/images/e/ef/SSBU_Bowser_Kirby.jpg",
     "clicked": false
   },
   {
     "id": 3,
     "name": "Donkey Kong",
-    "image": "./images/dk.jpg",
+    "image": "https://www.ssbwiki.com/images/9/90/SSBU_Donkey_Kong_Kirby.jpg",
     "clicked": false
   },
   {
     "id": 4,
     "name": "Captain Falcon",
-    "image": "./images/capFalcon.jpg",
+    "image": "https://www.ssbwiki.com/images/9/96/SSBU_Captain_Falcon_Kirby.jpg",
     "clicked": false
   },
   {
     "id": 5,
     "name": "Ganondorf",
-    "image": "./images/ganon.jpg",
+    "image": "https://www.ssbwiki.com/images/f/f9/SSBU_Ganondorf_Kirby.jpg",
     "clicked": false
   },
   {
     "id": 6,
     "name": "Ice Climbers",
-    "image": "./images/iceClimbers.jpg",
+    "image": "https://www.ssbwiki.com/images/1/17/SSBU_Ice_Climbers_Kirby.jpg",
     "clicked": false
   },
   {
     "id": 7,
     "name": "Jigglypuff",
-    "image": "./images/jigglypuff.jpg",
+    "image": "https://www.ssbwiki.com/images/e/ec/SSBU_Jigglypuff_Kirby.jpg",
     "clicked": false
   },
   {
     "id": 8,
     "name": "Link",
-    "image": "./images/link.jpg",
+    "image": "https://www.ssbwiki.com/images/f/fb/SSBU_Link_Kirby.jpg",
     "clicked": false
   },
   {
     "id": 9,
     "name": "Mario",
-    "image": "./images/mario.jpg",
+    "image": "https://www.ssbwiki.com/images/a/a1/SSBU_Mario_Kirby.jpg",
     "clicked": false
   },
   {
     "id": 10,
     "name": "Pikachu",
-    "image": "./images/pikachu.jpg",
+    "image": "https://www.ssbwiki.com/images/a/aa/SSBU_Pikachu_Kirby.jpg",
     "clicked": false
   },
   {
     "id": 11,
     "name": "Samus",
-    "image": "./images/samus.jpg",
+    "image": "https://www.ssbwiki.com/images/f/f8/SSBU_Samus_Kirby.jpg",
     "clicked": false
   },
   {
     "id": 12,
     "name": "Snake",
-    "image": "./images/snake.jpg",
+    "image": "https://www.ssbwiki.com/images/8/84/SSBU_Snirby.jpg",
     "clicked": false
   }
 ];
