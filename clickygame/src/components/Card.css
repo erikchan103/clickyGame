@@ -1,0 +1,15 @@
+.card {
+    height: 250px;
+    position: relative;
+    width: 325px;
+    text-align: left;
+  }
+
+  .card > .wrapper {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+  }
+  .card > .wrapper> img {
+    width: 60%
+  }
