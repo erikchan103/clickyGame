@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Kirby",
+        "image": "./images/kirby.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Bowser",
+        "image": "./images/bowser.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Donkey Kong",
+        "image": "./images/dk.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Captain Falcon",
+        "image": "./images/capFalcon.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Ganondorf",
+        "image": "./images/ganon.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Ice Climbers",
+        "image": "./images/iceClimbers.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Jigglypuff",
+        "image": "./images/jigglypuff.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Link",
+        "image": "./images/link.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Mario",
+        "image": "./images/mario.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Pikachu",
+        "image": "./images/pikachu.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Samus",
+        "image": "./images/samus.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Snake",
+        "image": "./images/snake.jpg",
+        "clicked": false
+    }
+]
